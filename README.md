@@ -7,7 +7,7 @@ Ambos permiten analizar las ventas desde diferentes perspectivas: por mes, categ
 
 ## 📊 Tableau
 
-![Dashboard Tableau](ruta/de/tu/imagen1.png)
+![Dashboard Tableau]("C:\Users\warma\OneDrive\Escritorio\Documentos\Tableau trabajos\tabla1.png")
 
 ### Características
 - Visualizaciones claras y simples.
